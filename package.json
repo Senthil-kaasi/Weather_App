@@ -1,0 +1,19 @@
+{
+  "name": "weather_app",
+  "version": "1.0.0",
+  "description": "Search for weather across the world",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Senthil-kaasi/Weather_App.git"
+  },
+  "author": "SENTHIL KAASI R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Senthil-kaasi/Weather_App/issues"
+  },
+  "homepage": "https://github.com/Senthil-kaasi/Weather_App#readme"
+}
